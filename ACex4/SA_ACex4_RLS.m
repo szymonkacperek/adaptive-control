@@ -9,9 +9,6 @@ function [out] = SA_ACex4_RLS(in)
 global p_hat
 global P
 global cov
-global k
-global T_reset
-global ro
 
 % Definicja sygna³ów wejœciowych
 yp = in(1);

@@ -12,7 +12,7 @@ Yr = 0.15;           % amplituda [rad/s]
 omega_r = 0.25;     % pulsacja [rad/s]
 
 %  1.2  WARUNKI SYMULACJI
-global Ta Tc sigma2e TF p_hat P lambda alfa
+global Ta Tc TF p_hat P lambda alfa
 % Sampling interval of the adaptation loop Ta
 Ta = 0.005;
 
