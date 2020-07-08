@@ -76,11 +76,11 @@ Model {
 	Object {
 	  $ObjectID		  5
 	  IsActive		  [1]
-	  ViewObjType		  "SimulinkTopLevel"
-	  LoadSaveID		  "0"
+	  ViewObjType		  "SimulinkSubsys"
+	  LoadSaveID		  "2"
 	  Extents		  [1875.0, 879.0]
-	  ZoomFactor		  [0.80476758045292029]
-	  Offset		  [-261.94609004739323, 7.6036729857820546]
+	  ZoomFactor		  [2.5]
+	  Offset		  [62.5, 55.359999999999985]
 	}
 	Object {
 	  $ObjectID		  6
@@ -135,7 +135,7 @@ Model {
   LastModifiedBy	  "szymon"
   ModifiedDateFormat	  "%<Auto>"
   LastModifiedDate	  "Wed Jul 08 22:22:34 2020"
-  RTWModifiedTimeStamp	  516149184
+  RTWModifiedTimeStamp	  516149351
   ModelVersionFormat	  "1.%<AutoIncrement:30>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
@@ -1228,7 +1228,7 @@ Model {
   System {
     Name		    "SA_ACex4_ZADANIE3_2_MODEL"
     Location		    [-7, -7, 1543, 871]
-    Open		    on
+    Open		    off
     PortBlocksUseCompactNotation off
     SetDomainSpec	    off
     DomainSpecType	    "Deduce"
@@ -1261,7 +1261,7 @@ Model {
       System {
 	Name			"Aero-plant"
 	Location		[-7, -7, 1543, 871]
-	Open			off
+	Open			on
 	PortBlocksUseCompactNotation off
 	SetDomainSpec		off
 	DomainSpecType		"Deduce"
@@ -1332,6 +1332,7 @@ Model {
 	  Position		  [350, 107, 380, 143]
 	  ZOrder		  -5
 	  ShowName		  off
+	  CurrentSetting	  "0"
 	}
 	Block {
 	  BlockType		  TransferFcn
@@ -2291,14 +2292,14 @@ Model {
       "0784313725490196 0.184313725490196],'Title','%<SignalLabel>','LinePropertiesCache',{{struct('Visible','on','Colo"
       "r',[0 0 0],'LineStyle','-','LineWidth',0.25,'Marker','none'),struct('Visible','on','Color',[0 0.447058823529412 "
       "0.741176470588235],'LineStyle','--','LineWidth',0.25,'Marker','none')}},'UserDefinedChannelNames',{{'y [rad]','y"
-      "r [rad]'}},'NumLines',0,'LineNames',{{[]}},'ShowContent',true,'Placement',1)},'DisplayPropertyDefaults',struct('"
-      "MinYLimReal','-0.1875','MaxYLimReal','0.1875','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','0.1875','Lege"
-      "ndVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[1 1 1],'AxesTickColor',[0.3137254"
-      "90196078 0.313725490196078 0.313725490196078],'ColorOrder',[0.0745098039215686 0.623529411764706 1;1 0.411764705"
-      "882353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.8313725"
-      "49019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuratio"
-      "n('Tools','Plot Navigation',true,'PreviousAutoscale','XY'),extmgr.Configuration('Tools','Measurements',true,'Ver"
-      "sion','2018a')),'Version','2018a','Position',[1 1 1536 788.8],'VisibleAtModelOpen','on')"
+      "r [rad]'}},'NumLines',2,'LineNames',{{'y [rad]','yr [rad]'}},'ShowContent',true,'Placement',1)},'DisplayProperty"
+      "Defaults',struct('MinYLimReal','-0.1875','MaxYLimReal','0.1875','YLabelReal','','MinYLimMag','0.00000','MaxYLimM"
+      "ag','0.1875','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[1 1 1],'AxesTic"
+      "kColor',[0.313725490196078 0.313725490196078 0.313725490196078],'ColorOrder',[0.0745098039215686 0.6235294117647"
+      "06 1;1 0.411764705882353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.3921568"
+      "62745098 0.831372549019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),e"
+      "xtmgr.Configuration('Tools','Plot Navigation',true,'PreviousAutoscale','XY'),extmgr.Configuration('Tools','Measu"
+      "rements',true,'Version','2018a')),'Version','2018a','Position',[1 1 1536 788.8],'VisibleAtModelOpen','on')"
       NumInputPorts	      "2"
       Floating		      off
     }
