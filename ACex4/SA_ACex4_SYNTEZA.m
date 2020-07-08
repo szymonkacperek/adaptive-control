@@ -4,8 +4,7 @@
 
 %---- • NOTATKI
 % 
-
-function [w] = SA_ACex4_SYNTEZA(input)
+function [out] = SA_ACex4_SYNTEZA(input)
 %UNTITLED1 Summary of this function goes here
 %   Detailed explanation goes here
 
@@ -24,6 +23,7 @@ w2 = 1/p(2);
 w3 = p(1)/p(2);    
 
 w = [w1; w2; w3];
+out = w;
 end
 
 

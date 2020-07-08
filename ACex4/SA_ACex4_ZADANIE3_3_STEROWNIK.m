@@ -5,15 +5,13 @@
 %---- • NOTATKI
 % 
 %%
-function [out] = SA_ACex4_ZADANIE3_2_STEROWNIK(in)
+function [out] = SA_ACex4_ZADANIE3_3_STEROWNIK(input)
 
 % Definicja sygna³ów wejœciowych
-yrDot = in(1);
-yr = in(2);
-e = in(3);
-
-w = [5.0; 1.0; 3.0];
+w = input(1:3);
+yrDot = input(4);
+yr = input(5);
+e = input(6);
 
 u = w(1)*e + w(2)*yr + w(3)*yrDot;
-
 out = u;
