@@ -1,0 +1,11 @@
+function [ output_args ] = Untitled1( input_args )
+global Ta
+global Tc
+global sigma2e
+global T
+
+
+Ta = 0.05;
+T=1.5*Ta;
+Tc = 0.001;
+sigma2e = 0.0;
