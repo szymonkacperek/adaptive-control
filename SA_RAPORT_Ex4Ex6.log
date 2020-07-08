@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  8 JUL 2020 20:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  8 JUL 2020 23:06
 entering extended mode
 **./SA_RAPORT_Ex4Ex6.tex
 (SA_RAPORT_Ex4Ex6.tex
@@ -852,14 +852,14 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(14.22636pt, 569.05515pt, 14.22636pt)
-* v-part:(T,H,B)=(56.9055pt, 773.91498pt, 14.22636pt)
+* v-part:(T,H,B)=(28.45274pt, 802.36774pt, 14.22636pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=569.05515pt
-* \textheight=773.91498pt
+* \textheight=802.36774pt
 * \oddsidemargin=-58.04362pt
 * \evensidemargin=-58.04362pt
-* \topmargin=-52.36449pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1057,7 +1057,7 @@ Package rerunfilecheck Info: File `SA_RAPORT_Ex4Ex6.out' has not changed.
 Here is how much of TeX's memory you used:
  26115 strings out of 480799
  518216 string characters out of 2912021
- 809823 words of memory out of 3000000
+ 809824 words of memory out of 3000000
  41617 multiletter control sequences out of 15000+200000
  560678 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1067,7 +1067,7 @@ Here is how much of TeX's memory you used:
 fonts/type1/public/lm/lmr10.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb
 ><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmssbx10.pfb>
-Output written on SA_RAPORT_Ex4Ex6.pdf (1 page, 953119 bytes).
+Output written on SA_RAPORT_Ex4Ex6.pdf (1 page, 953125 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  5 named destinations out of 1000 (max. 500000)
