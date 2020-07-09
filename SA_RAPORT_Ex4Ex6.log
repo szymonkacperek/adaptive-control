@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  8 JUL 2020 23:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7440 64-bit) (preloaded format=pdflatex 2020.5.24)  9 JUL 2020 05:18
 entering extended mode
 **./SA_RAPORT_Ex4Ex6.tex
 (SA_RAPORT_Ex4Ex6.tex
@@ -815,10 +815,6 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 68.
 
-
-LaTeX Warning: Unused global option(s):
-    [polish].
-
 (SA_RAPORT_Ex4Ex6.aux)
 \openout1 = `SA_RAPORT_Ex4Ex6.aux'.
 
@@ -933,143 +929,2061 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 7
 ("C:\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+9.
+ ("C:\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+9.
+ ("C:\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+89.
+
+("C:\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+89.
+
+("C:\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 89.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 89.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 89.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 89
+.
+
+("C:\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
+
+
+("C:\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
+
+
+("C:\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma001
-.eps>
+_sin.eps>
 (epstopdf)                    date: 2020-07-08 19:43:57
 (epstopdf)                    size: 1368583 bytes
 (epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma001
--eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-08 19:52:51
+_sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:00:03
 (epstopdf)                    size: 232989 bytes
 (epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
-ametry_sigma001-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigma001
-.eps>
-(epstopdf)             \includegraphics on input line 100.
+ametry_sigma001_sin-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigm
+a001_sin.eps>
+(epstopdf)             \includegraphics on input line 105.
 Package epstopdf Info: Output file is already uptodate.
 
 
 pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma001
--eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most ver
-sion <1.5> allowed
-<ACex4/ZADANIE3_1/figs/01Parametry_sigma001-eps-converted-to.pdf, id=50, 227.85
-126pt x 227.85126pt>
-File: ACex4/ZADANIE3_1/figs/01Parametry_sigma001-eps-converted-to.pdf Graphic f
-ile (type pdf)
-<use ACex4/ZADANIE3_1/figs/01Parametry_sigma001-eps-converted-to.pdf>
-Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma001-eps-convert
-ed-to.pdf  used on input line 100.
-(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
-Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01.
-eps>
+_sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma001_sin-eps-converted-to.pdf, id=62, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma001_sin-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma001_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma001_sin-eps-con
+verted-to.pdf  used on input line 105.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+sin.eps>
 (epstopdf)                    date: 2020-07-08 19:44:57
 (epstopdf)                    size: 1366581 bytes
-(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01-
-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-08 19:53:16
+(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:00:06
 (epstopdf)                    size: 251241 bytes
 (epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
-ametry_sigma01-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigma01.e
-ps>
-(epstopdf)             \includegraphics on input line 100.
+ametry_sigma01_sin-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigma
+01_sin.eps>
+(epstopdf)             \includegraphics on input line 105.
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma01-
-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most vers
-ion <1.5> allowed
-<ACex4/ZADANIE3_1/figs/01Parametry_sigma01-eps-converted-to.pdf, id=51, 227.851
-26pt x 227.85126pt>
-File: ACex4/ZADANIE3_1/figs/01Parametry_sigma01-eps-converted-to.pdf Graphic fi
-le (type pdf)
-<use ACex4/ZADANIE3_1/figs/01Parametry_sigma01-eps-converted-to.pdf>
-Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma01-eps-converte
-d-to.pdf  used on input line 100.
-(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
-Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10.
-eps>
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma01_sin-eps-converted-to.pdf, id=63, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma01_sin-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma01_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma01_sin-eps-conv
+erted-to.pdf  used on input line 105.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+sin.eps>
 (epstopdf)                    date: 2020-07-08 19:48:20
 (epstopdf)                    size: 1365674 bytes
-(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10-
-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-08 19:52:53
+(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:00:09
 (epstopdf)                    size: 259118 bytes
 (epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
-ametry_sigma10-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigma10.e
+ametry_sigma10_sin-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigma
+10_sin.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma10_sin-eps-converted-to.pdf, id=64, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma10_sin-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma10_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma10_sin-eps-conv
+erted-to.pdf  used on input line 105.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma001
+_rect.eps>
+(epstopdf)                    date: 2020-07-09 02:48:27
+(epstopdf)                    size: 1227391 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma001
+_rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 04:10:29
+(epstopdf)                    size: 213503 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
+ametry_sigma001_rect-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sig
+ma001_rect.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma001
+_rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mos
+t version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect-eps-converted-to.pdf, id=65, 2
+27.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect-eps-converted-to.pdf Grap
+hic file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect-eps-co
+nverted-to.pdf  used on input line 106.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+rect.eps>
+(epstopdf)                    date: 2020-07-08 23:56:44
+(epstopdf)                    size: 1376339 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:00:14
+(epstopdf)                    size: 247909 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
+ametry_sigma01_rect-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigm
+a01_rect.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma01_
+rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect-eps-converted-to.pdf, id=66, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect-eps-con
+verted-to.pdf  used on input line 106.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+rect.eps>
+(epstopdf)                    date: 2020-07-08 23:57:57
+(epstopdf)                    size: 1384554 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:00:16
+(epstopdf)                    size: 239307 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/01Par
+ametry_sigma10_rect-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/01Parametry_sigm
+a10_rect.eps>
+(epstopdf)             \includegraphics on input line 106.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma10_
+rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect-eps-converted-to.pdf, id=67, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect-eps-con
+verted-to.pdf  used on input line 106.
+(pdftex.def)             Requested size: 176.4057pt x 176.40906pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_sin.eps>
+(epstopdf)                    date: 2020-07-09 00:24:54
+(epstopdf)                    size: 2709529 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:34:14
+(epstopdf)                    size: 493733 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_2/figs/02Par
+ametry_sigma001_sin-eps-converted-to.pdf ACex4/ZADANIE3_2/figs/02Parametry_sigm
+a001_sin.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin-eps-converted-to.pdf, id=68, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin-eps-con
+verted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_s
+in.eps>
+(epstopdf)                    date: 2020-07-09 00:26:14
+(epstopdf)                    size: 5505527 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_s
+in-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:34:21
+(epstopdf)                    size: 997518 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_2/figs/02Syg
+naly_sigma001_sin-eps-converted-to.pdf ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001
+_sin.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_s
+in-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin-eps-converted-to.pdf, id=69, 227.
+85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin-eps-conve
+rted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_rect.eps>
+(epstopdf)                    date: 2020-07-09 00:27:39
+(epstopdf)                    size: 2736877 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:34:25
+(epstopdf)                    size: 453759 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_2/figs/02Par
+ametry_sigma001_rect-eps-converted-to.pdf ACex4/ZADANIE3_2/figs/02Parametry_sig
+ma001_rect.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_2/figs/02Parametry_sigma001
+_rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mos
+t version <1.5> allowed
+<ACex4/ZADANIE3_2/figs/02Parametry_sigma001_rect-eps-converted-to.pdf, id=70, 2
+27.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_2/figs/02Parametry_sigma001_rect-eps-converted-to.pdf Grap
+hic file (type pdf)
+<use ACex4/ZADANIE3_2/figs/02Parametry_sigma001_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_2/figs/02Parametry_sigma001_rect-eps-co
+nverted-to.pdf  used on input line 110.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_r
+ect.eps>
+(epstopdf)                    date: 2020-07-09 00:28:45
+(epstopdf)                    size: 5445786 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_r
+ect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 00:34:31
+(epstopdf)                    size: 893213 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_2/figs/02Syg
+naly_sigma001_rect-eps-converted-to.pdf ACex4/ZADANIE3_2/figs/02Sygnaly_sigma00
+1_rect.eps>
+(epstopdf)             \includegraphics on input line 111.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_r
+ect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_rect-eps-converted-to.pdf, id=71, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_rect-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_rect-eps-conv
+erted-to.pdf  used on input line 111.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/03Parametry_sigma00_
+sin.eps>
+(epstopdf)                    date: 2020-07-09 00:44:33
+(epstopdf)                    size: 2734715 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/03Parametry_sigma00_
+sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:03:55
+(epstopdf)                    size: 337392 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/03Par
+ametry_sigma00_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/03Parametry_sigma
+00_sin.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/03Parametry_sigma00_
+sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/03Parametry_sigma00_sin-eps-converted-to.pdf, id=72, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/03Parametry_sigma00_sin-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_3/figs/03Parametry_sigma00_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/03Parametry_sigma00_sin-eps-conv
+erted-to.pdf  used on input line 118.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_si
+n.eps>
+(epstopdf)                    date: 2020-07-09 00:43:27
+(epstopdf)                    size: 5418110 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_si
+n-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:01
+(epstopdf)                    size: 690555 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/03Poz
+ycje_sigma00_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_s
+in.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_si
+n-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_sin-eps-converted-to.pdf, id=73, 227.8
+5126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_sin-eps-converted-to.pdf Graphic 
+file (type pdf)
+<use ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/03Pozycje_sigma00_sin-eps-conver
+ted-to.pdf  used on input line 118.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/04Parametry_sigma001
+_sin.eps>
+(epstopdf)                    date: 2020-07-09 00:46:51
+(epstopdf)                    size: 2710610 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/04Parametry_sigma001
+_sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:05
+(epstopdf)                    size: 486879 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/04Par
+ametry_sigma001_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/04Parametry_sigm
+a001_sin.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/04Parametry_sigma001
+_sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/04Parametry_sigma001_sin-eps-converted-to.pdf, id=74, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/04Parametry_sigma001_sin-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_3/figs/04Parametry_sigma001_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/04Parametry_sigma001_sin-eps-con
+verted-to.pdf  used on input line 118.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_s
+in.eps>
+(epstopdf)                    date: 2020-07-09 00:46:14
+(epstopdf)                    size: 5442846 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_s
+in-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:12
+(epstopdf)                    size: 959706 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/04Poz
+ycje_sigma001_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/04Pozycje_sigma001
+_sin.eps>
+(epstopdf)             \includegraphics on input line 119.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_s
+in-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_sin-eps-converted-to.pdf, id=75, 227.
+85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_sin-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_sin-eps-conve
+rted-to.pdf  used on input line 119.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/05Parametry_sigma01_
+sin.eps>
+(epstopdf)                    date: 2020-07-09 00:50:21
+(epstopdf)                    size: 2730317 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/05Parametry_sigma01_
+sin-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:16
+(epstopdf)                    size: 504970 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/05Par
+ametry_sigma01_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/05Parametry_sigma
+01_sin.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/05Parametry_sigma01_
+sin-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/05Parametry_sigma01_sin-eps-converted-to.pdf, id=76, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/05Parametry_sigma01_sin-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_3/figs/05Parametry_sigma01_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/05Parametry_sigma01_sin-eps-conv
+erted-to.pdf  used on input line 120.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_si
+n.eps>
+(epstopdf)                    date: 2020-07-09 00:48:39
+(epstopdf)                    size: 5451625 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_si
+n-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:22
+(epstopdf)                    size: 947359 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/05Poz
+ycje_sigma01_sin-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_s
+in.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_si
+n-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most ve
+rsion <1.5> allowed
+<ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_sin-eps-converted-to.pdf, id=77, 227.8
+5126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_sin-eps-converted-to.pdf Graphic 
+file (type pdf)
+<use ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_sin-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_sin-eps-conver
+ted-to.pdf  used on input line 120.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/06Parametry_sigma00_
+rect.eps>
+(epstopdf)                    date: 2020-07-09 00:53:41
+(epstopdf)                    size: 2721796 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/06Parametry_sigma00_
+rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:26
+(epstopdf)                    size: 301567 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/06Par
+ametry_sigma00_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/06Parametry_sigm
+a00_rect.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/06Parametry_sigma00_
+rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/06Parametry_sigma00_rect-eps-converted-to.pdf, id=78, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/06Parametry_sigma00_rect-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_3/figs/06Parametry_sigma00_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/06Parametry_sigma00_rect-eps-con
+verted-to.pdf  used on input line 120.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_re
+ct.eps>
+(epstopdf)                    date: 2020-07-09 00:52:45
+(epstopdf)                    size: 5418084 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_re
+ct-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:33
+(epstopdf)                    size: 585516 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/06Poz
+ycje_sigma00_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_
+rect.eps>
+(epstopdf)             \includegraphics on input line 121.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_re
+ct-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_rect-eps-converted-to.pdf, id=79, 227.
+85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_rect-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/06Pozycje_sigma00_rect-eps-conve
+rted-to.pdf  used on input line 121.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/07Parametry_sigma001
+_rect.eps>
+(epstopdf)                    date: 2020-07-09 00:57:40
+(epstopdf)                    size: 2741130 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/07Parametry_sigma001
+_rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:37
+(epstopdf)                    size: 450331 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/07Par
+ametry_sigma001_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/07Parametry_sig
+ma001_rect.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/07Parametry_sigma001
+_rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at mos
+t version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/07Parametry_sigma001_rect-eps-converted-to.pdf, id=80, 2
+27.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/07Parametry_sigma001_rect-eps-converted-to.pdf Grap
+hic file (type pdf)
+<use ACex4/ZADANIE3_3/figs/07Parametry_sigma001_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/07Parametry_sigma001_rect-eps-co
+nverted-to.pdf  used on input line 122.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_r
+ect.eps>
+(epstopdf)                    date: 2020-07-09 00:56:58
+(epstopdf)                    size: 5451640 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_r
+ect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:44
+(epstopdf)                    size: 849149 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/07Poz
+ycje_sigma001_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/07Pozycje_sigma00
+1_rect.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_r
+ect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most 
+version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_rect-eps-converted-to.pdf, id=81, 227
+.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_rect-eps-converted-to.pdf Graphi
+c file (type pdf)
+<use ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_rect-eps-conv
+erted-to.pdf  used on input line 122.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/08Parametry_sigma01_
+rect.eps>
+(epstopdf)                    date: 2020-07-09 00:59:52
+(epstopdf)                    size: 2712379 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/08Parametry_sigma01_
+rect-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:48
+(epstopdf)                    size: 488424 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/08Par
+ametry_sigma01_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/08Parametry_sigm
+a01_rect.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/08Parametry_sigma01_
+rect-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most
+ version <1.5> allowed
+<ACex4/ZADANIE3_3/figs/08Parametry_sigma01_rect-eps-converted-to.pdf, id=82, 22
+7.85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/08Parametry_sigma01_rect-eps-converted-to.pdf Graph
+ic file (type pdf)
+<use ACex4/ZADANIE3_3/figs/08Parametry_sigma01_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/08Parametry_sigma01_rect-eps-con
+verted-to.pdf  used on input line 122.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_re
+ct.eps>
+(epstopdf)                    date: 2020-07-09 00:59:00
+(epstopdf)                    size: 5453786 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_re
+ct-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:04:55
+(epstopdf)                    size: 894351 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/08Poz
+ycje_sigma01_rect-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_
+rect.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_re
+ct-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most v
+ersion <1.5> allowed
+<ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_rect-eps-converted-to.pdf, id=83, 227.
+85126pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_rect-eps-converted-to.pdf Graphic
+ file (type pdf)
+<use ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_rect-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_rect-eps-conve
+rted-to.pdf  used on input line 123.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/09Parametry_Ta0002.e
 ps>
-(epstopdf)             \includegraphics on input line 100.
+(epstopdf)                    date: 2020-07-09 01:16:48
+(epstopdf)                    size: 6828726 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:33:33
+(epstopdf)                    size: 1156693 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/09Par
+ametry_Ta0002-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/09Parametry_Ta0002.eps
+>
+(epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/01Parametry_sigma10-
-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most vers
-ion <1.5> allowed
-<ACex4/ZADANIE3_1/figs/01Parametry_sigma10-eps-converted-to.pdf, id=52, 227.851
-26pt x 227.85126pt>
-File: ACex4/ZADANIE3_1/figs/01Parametry_sigma10-eps-converted-to.pdf Graphic fi
-le (type pdf)
-<use ACex4/ZADANIE3_1/figs/01Parametry_sigma10-eps-converted-to.pdf>
-Package pdftex.def Info: ACex4/ZADANIE3_1/figs/01Parametry_sigma10-eps-converte
-d-to.pdf  used on input line 100.
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-e
+ps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-eps-converted-to.pdf, id=84, 227.8512
+6pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-eps-converted-to.pdf Graphic fil
+e (type pdf)
+<use ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-eps-converted
+-to.pdf  used on input line 129.
 (pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
-Package epstopdf Info: Source file: <ACex4/ZADANIE3_1/figs/StateVar_initial_tco
-nst_mi0.2.eps>
-(epstopdf)                    date: 2020-07-08 19:58:41
-(epstopdf)                    size: 226670 bytes
-(epstopdf)             Output file: <ACex4/ZADANIE3_1/figs/StateVar_initial_tco
-nst_mi0.2-eps-converted-to.pdf>
-(epstopdf)                    date: 2020-07-08 19:58:58
-(epstopdf)                    size: 77055 bytes
-(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_1/figs/State
-Var_initial_tconst_mi0.2-eps-converted-to.pdf ACex4/ZADANIE3_1/figs/StateVar_in
-itial_tconst_mi0.2.eps>
-(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/09Parametry_Ta0010.e
+ps>
+(epstopdf)                    date: 2020-07-09 01:14:48
+(epstopdf)                    size: 1369398 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:33:35
+(epstopdf)                    size: 242264 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/09Par
+ametry_Ta0010-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/09Parametry_Ta0010.eps
+>
+(epstopdf)             \includegraphics on input line 129.
 Package epstopdf Info: Output file is already uptodate.
 
 
-pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_1/figs/StateVar_initial_tco
-nst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at
- most version <1.5> allowed
-<ACex4/ZADANIE3_1/figs/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf, id=5
-3, 227.85126pt x 227.85126pt>
-File: ACex4/ZADANIE3_1/figs/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf 
-Graphic file (type pdf)
-<use ACex4/ZADANIE3_1/figs/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf>
-Package pdftex.def Info: ACex4/ZADANIE3_1/figs/StateVar_initial_tconst_mi0.2-ep
-s-converted-to.pdf  used on input line 101.
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-e
+ps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most versi
+on <1.5> allowed
+<ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-eps-converted-to.pdf, id=85, 227.8512
+6pt x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-eps-converted-to.pdf Graphic fil
+e (type pdf)
+<use ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-eps-converted
+-to.pdf  used on input line 129.
 (pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/09Parametry_ro10.eps
+>
+(epstopdf)                    date: 2020-07-09 01:28:33
+(epstopdf)                    size: 2705141 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:33:39
+(epstopdf)                    size: 493096 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/09Par
+ametry_ro10-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/09Parametry_ro10.eps>
+(epstopdf)             \includegraphics on input line 129.
+Package epstopdf Info: Output file is already uptodate.
 
-AED: lastpage setting LastPage
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps
+-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps-converted-to.pdf, id=86, 227.85126p
+t x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps-converted-t
+o.pdf  used on input line 129.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex4/ZADANIE3_3/figs/09Parametry_ro20.eps
+>
+(epstopdf)                    date: 2020-07-09 01:29:56
+(epstopdf)                    size: 2709099 bytes
+(epstopdf)             Output file: <ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:33:44
+(epstopdf)                    size: 486726 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex4/ZADANIE3_3/figs/09Par
+ametry_ro20-eps-converted-to.pdf ACex4/ZADANIE3_3/figs/09Parametry_ro20.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps
+-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version
+ <1.5> allowed
+<ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps-converted-to.pdf, id=87, 227.85126p
+t x 227.85126pt>
+File: ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps-converted-to.pdf>
+Package pdftex.def Info: ACex4/ZADANIE3_3/figs/09Parametry_ro20-eps-converted-t
+o.pdf  used on input line 130.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
 [1
 
 {C:/Users/szymon/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./ACex4/ZA
-DANIE3_1/figs/01Parametry_sigma001-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/fi
-gs/01Parametry_sigma01-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/01Paramet
-ry_sigma10-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/StateVar_initial_tcon
-st_mi0.2-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+DANIE3_1/figs/01Parametry_sigma001_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_
+1/figs/01Parametry_sigma01_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/0
+1Parametry_sigma10_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/01Paramet
+ry_sigma001_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/01Parametry_sig
+ma01_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_1/figs/01Parametry_sigma10_re
+ct-eps-converted-to.pdf>]
+
+Package Fancyhdr Warning: \footskip is too small (2.84526pt): 
+Make it at least 3.60004pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[2 <./ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin-eps-converted-to.pdf> <./A
+Cex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin-eps-converted-to.pdf> <./ACex4/ZADA
+NIE3_2/figs/02Parametry_sigma001_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_2
+/figs/02Sygnaly_sigma001_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/03
+Parametry_sigma00_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/03Pozycje_
+sigma00_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/04Parametry_sigma001
+_sin-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/04Pozycje_sigma001_sin-eps-
+converted-to.pdf> <./ACex4/ZADANIE3_3/figs/05Parametry_sigma01_sin-eps-converte
+d-to.pdf> <./ACex4/ZADANIE3_3/figs/05Pozycje_sigma01_sin-eps-converted-to.pdf> 
+<./ACex4/ZADANIE3_3/figs/06Parametry_sigma00_rect-eps-converted-to.pdf> <./ACex
+4/ZADANIE3_3/figs/06Pozycje_sigma00_rect-eps-converted-to.pdf> <./ACex4/ZADANIE
+3_3/figs/07Parametry_sigma001_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/fi
+gs/07Pozycje_sigma001_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/08Par
+ametry_sigma01_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/08Pozycje_si
+gma01_rect-eps-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/09Parametry_Ta0002-ep
+s-converted-to.pdf> <./ACex4/ZADANIE3_3/figs/09Parametry_Ta0010-eps-converted-t
+o.pdf> <./ACex4/ZADANIE3_3/figs/09Parametry_ro10-eps-converted-to.pdf> <./ACex4
+/ZADANIE3_3/figs/09Parametry_ro20-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/beta_betaref_initial_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:30:27
+(epstopdf)                    size: 85931 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/beta_betaref_initial_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:17
+(epstopdf)                    size: 34091 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a1_initial_
+tconst_sin_mi0.2/beta_betaref_initial_tconst_mi0.2-eps-converted-to.pdf ACex6/f
+igs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/beta_betaref_initial_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found
+ PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst_mi0.2-
+eps-converted-to.pdf, id=244, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst_m
+i0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst_mi
+0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betar
+ef_initial_tconst_mi0.2-eps-converted-to.pdf  used on input line 138.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/e_initial_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 20:05:18
+(epstopdf)                    size: 53263 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/e_initial_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:18
+(epstopdf)                    size: 18966 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a1_initial_
+tconst_sin_mi0.2/e_initial_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG1_a1
+_initial_tconst_sin_mi0.2/e_initial_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 139.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/e_initial_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/e_initial_tconst_mi0.2-eps-convert
+ed-to.pdf, id=245, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/e_initial_tconst_mi0.2-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/e_initial_tconst_mi0.2-eps-con
+verted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/e_initial_
+tconst_mi0.2-eps-converted-to.pdf  used on input line 139.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/StateVar_initial_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:34:41
+(epstopdf)                    size: 229634 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:20
+(epstopdf)                    size: 78647 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a1_initial_
+tconst_sin_mi0.2/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/
+FIG1_a1_initial_tconst_sin_mi0.2/StateVar_initial_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF
+ version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/StateVar_initial_tconst_mi0.2-eps-
+converted-to.pdf, id=246, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/StateVar_initial_tconst_mi0.2
+-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/StateVar_initial_tconst_mi0.2-
+eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/StateVar_i
+nitial_tconst_mi0.2-eps-converted-to.pdf  used on input line 140.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/U_initial_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 02:24:33
+(epstopdf)                    size: 65581 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/U_initial_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 04:10:35
+(epstopdf)                    size: 23767 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a1_initial_
+tconst_sin_mi0.2/U_initial_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG1_a1
+_initial_tconst_sin_mi0.2/U_initial_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 141.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.
+2/U_initial_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/U_initial_tconst_mi0.2-eps-convert
+ed-to.pdf, id=247, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/U_initial_tconst_mi0.2-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/U_initial_tconst_mi0.2-eps-con
+verted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/U_initial_
+tconst_mi0.2-eps-converted-to.pdf  used on input line 141.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/beta_betar_initial_tconst_rect_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 02:25:53
+(epstopdf)                    size: 107620 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/beta_betar_initial_tconst_rect_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 04:10:36
+(epstopdf)                    size: 37019 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a2_initial_
+tconst_rect_mi0.2/beta_betar_initial_tconst_rect_mi0.2-eps-converted-to.pdf ACe
+x6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_betar_initial_tconst_rect_mi0.2.
+eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/beta_betar_initial_tconst_rect_mi0.2-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_betar_initial_tconst_rect_mi
+0.2-eps-converted-to.pdf, id=248, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_betar_initial_tconst_re
+ct_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_betar_initial_tconst_rec
+t_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_beta
+r_initial_tconst_rect_mi0.2-eps-converted-to.pdf  used on input line 142.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/e_initial_tconst_rect_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 20:21:20
+(epstopdf)                    size: 53341 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/e_initial_tconst_rect_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:23
+(epstopdf)                    size: 18520 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a2_initial_
+tconst_rect_mi0.2/e_initial_tconst_rect_mi0.2-eps-converted-to.pdf ACex6/figs/F
+IG1_a2_initial_tconst_rect_mi0.2/e_initial_tconst_rect_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 143.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/e_initial_tconst_rect_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/e_initial_tconst_rect_mi0.2-eps-c
+onverted-to.pdf, id=249, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/e_initial_tconst_rect_mi0.2-
+eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/e_initial_tconst_rect_mi0.2-e
+ps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/e_initial
+_tconst_rect_mi0.2-eps-converted-to.pdf  used on input line 143.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/StateVar_initial_tconst_rect_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:37:20
+(epstopdf)                    size: 228410 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/StateVar_initial_tconst_rect_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:25
+(epstopdf)                    size: 77565 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a2_initial_
+tconst_rect_mi0.2/StateVar_initial_tconst_rect_mi0.2-eps-converted-to.pdf ACex6
+/figs/FIG1_a2_initial_tconst_rect_mi0.2/StateVar_initial_tconst_rect_mi0.2.eps>
+
+(epstopdf)             \includegraphics on input line 144.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/StateVar_initial_tconst_rect_mi0.2-eps-converted-to.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/StateVar_initial_tconst_rect_mi0.
+2-eps-converted-to.pdf, id=250, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/StateVar_initial_tconst_rect
+_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/StateVar_initial_tconst_rect_
+mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/StateVar_
+initial_tconst_rect_mi0.2-eps-converted-to.pdf  used on input line 144.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/U_initial_tconst_rect_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:37:53
+(epstopdf)                    size: 52708 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/U_initial_tconst_rect_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:26
+(epstopdf)                    size: 17386 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_a2_initial_
+tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2-eps-converted-to.pdf ACex6/figs/F
+IG1_a2_initial_tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 145.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_a2_initial_tconst_rect_mi0
+.2/U_initial_tconst_rect_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF 
+version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2-eps-c
+onverted-to.pdf, id=251, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2-
+eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2-e
+ps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/U_initial
+_tconst_rect_mi0.2-eps-converted-to.pdf  used on input line 145.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_
+betar_tconst_sin_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:39:55
+(epstopdf)                    size: 87125 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_
+betar_tconst_sin_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:27
+(epstopdf)                    size: 34426 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b1_tconst_s
+in_mi0.03/beta_betar_tconst_sin_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b1_
+tconst_sin_mi0.03/beta_betar_tconst_sin_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_
+betar_tconst_sin_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version
+ <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_betar_tconst_sin_mi0.03-eps-converte
+d-to.pdf, id=252, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_betar_tconst_sin_mi0.03-eps-con
+verted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_betar_tconst_sin_mi0.03-eps-conv
+erted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_betar_tconst
+_sin_mi0.03-eps-converted-to.pdf  used on input line 146.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tco
+nst_sin_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 20:49:24
+(epstopdf)                    size: 53672 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tco
+nst_sin_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:28
+(epstopdf)                    size: 18194 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b1_tconst_s
+in_mi0.03/e_tconst_sin_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b1_tconst_si
+n_mi0.03/e_tconst_sin_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tco
+nst_sin_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, b
+ut at most version <1.5> allowed
+<ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tconst_sin_mi0.03-eps-converted-to.pdf,
+ id=253, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tconst_sin_mi0.03-eps-converted-to
+.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tconst_sin_mi0.03-eps-converted-to.
+pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tconst_sin_mi0.
+03-eps-converted-to.pdf  used on input line 147.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/State
+Var_tconst_sin_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:40:53
+(epstopdf)                    size: 234191 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/State
+Var_tconst_sin_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:30
+(epstopdf)                    size: 79003 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b1_tconst_s
+in_mi0.03/StateVar_tconst_sin_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b1_tc
+onst_sin_mi0.03/StateVar_tconst_sin_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 148.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/State
+Var_tconst_sin_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_b1_tconst_sin_mi0.03/StateVar_tconst_sin_mi0.03-eps-converted-
+to.pdf, id=254, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/StateVar_tconst_sin_mi0.03-eps-conve
+rted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b1_tconst_sin_mi0.03/StateVar_tconst_sin_mi0.03-eps-conver
+ted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/StateVar_tconst_s
+in_mi0.03-eps-converted-to.pdf  used on input line 148.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tco
+nst_sin_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:41:40
+(epstopdf)                    size: 52574 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tco
+nst_sin_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:31
+(epstopdf)                    size: 14650 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b1_tconst_s
+in_mi0.03/U_tconst_sin_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b1_tconst_si
+n_mi0.03/U_tconst_sin_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 149.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tco
+nst_sin_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, b
+ut at most version <1.5> allowed
+<ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tconst_sin_mi0.03-eps-converted-to.pdf,
+ id=255, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tconst_sin_mi0.03-eps-converted-to
+.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tconst_sin_mi0.03-eps-converted-to.
+pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tconst_sin_mi0.
+03-eps-converted-to.pdf  used on input line 149.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta
+_betar_tconst_rect_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:42:26
+(epstopdf)                    size: 88951 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta
+_betar_tconst_rect_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:32
+(epstopdf)                    size: 33402 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b2_tconst_r
+ect_mi0.03/beta_betar_tconst_rect_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b
+2_tconst_rect_mi0.03/beta_betar_tconst_rect_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta
+_betar_tconst_rect_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF versi
+on <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta_betar_tconst_rect_mi0.03-eps-conver
+ted-to.pdf, id=256, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta_betar_tconst_rect_mi0.03-eps-c
+onverted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta_betar_tconst_rect_mi0.03-eps-co
+nverted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/beta_betar_tcons
+t_rect_mi0.03-eps-converted-to.pdf  used on input line 150.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tc
+onst_rect_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 20:52:32
+(epstopdf)                    size: 53450 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tc
+onst_rect_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:33
+(epstopdf)                    size: 16587 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b2_tconst_r
+ect_mi0.03/e_tconst_rect_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b2_tconst_
+rect_mi0.03/e_tconst_rect_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tc
+onst_rect_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>,
+ but at most version <1.5> allowed
+<ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tconst_rect_mi0.03-eps-converted-to.pd
+f, id=257, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tconst_rect_mi0.03-eps-converted-
+to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tconst_rect_mi0.03-eps-converted-t
+o.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/e_tconst_rect_mi
+0.03-eps-converted-to.pdf  used on input line 151.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/Stat
+eVar_tconst_rect_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:44:42
+(epstopdf)                    size: 231848 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/Stat
+eVar_tconst_rect_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:35
+(epstopdf)                    size: 74589 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b2_tconst_r
+ect_mi0.03/StateVar_tconst_rect_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b2_
+tconst_rect_mi0.03/StateVar_tconst_rect_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b2_tconst_rect_mi0.03/Stat
+eVar_tconst_rect_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version
+ <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_b2_tconst_rect_mi0.03/StateVar_tconst_rect_mi0.03-eps-converte
+d-to.pdf, id=258, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/StateVar_tconst_rect_mi0.03-eps-con
+verted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b2_tconst_rect_mi0.03/StateVar_tconst_rect_mi0.03-eps-conv
+erted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/StateVar_tconst_
+rect_mi0.03-eps-converted-to.pdf  used on input line 152.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tc
+onst_rect_mi0.03.eps>
+(epstopdf)                    date: 2020-07-08 23:45:10
+(epstopdf)                    size: 52121 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tc
+onst_rect_mi0.03-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:36
+(epstopdf)                    size: 13873 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_b2_tconst_r
+ect_mi0.03/U_tconst_rect_mi0.03-eps-converted-to.pdf ACex6/figs/FIG1_b2_tconst_
+rect_mi0.03/U_tconst_rect_mi0.03.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tc
+onst_rect_mi0.03-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>,
+ but at most version <1.5> allowed
+<ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tconst_rect_mi0.03-eps-converted-to.pd
+f, id=259, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tconst_rect_mi0.03-eps-converted-
+to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tconst_rect_mi0.03-eps-converted-t
+o.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_b2_tconst_rect_mi0.03/U_tconst_rect_mi
+0.03-eps-converted-to.pdf  used on input line 153.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_b
+etar_tconst_sin_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:46:44
+(epstopdf)                    size: 85943 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_b
+etar_tconst_sin_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:37
+(epstopdf)                    size: 34199 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c1_tconst_s
+in_mi0.5/beta_betar_tconst_sin_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c1_tc
+onst_sin_mi0.5/beta_betar_tconst_sin_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 154.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_b
+etar_tconst_sin_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <
+1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_betar_tconst_sin_mi0.5-eps-converted-
+to.pdf, id=260, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_betar_tconst_sin_mi0.5-eps-conve
+rted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_betar_tconst_sin_mi0.5-eps-conver
+ted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/beta_betar_tconst_
+sin_mi0.5-eps-converted-to.pdf  used on input line 154.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tcon
+st_sin_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 20:29:37
+(epstopdf)                    size: 50532 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tcon
+st_sin_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:38
+(epstopdf)                    size: 19284 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c1_tconst_s
+in_mi0.5/e_tconst_sin_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c1_tconst_sin_
+mi0.5/e_tconst_sin_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 155.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tcon
+st_sin_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but
+ at most version <1.5> allowed
+<ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tconst_sin_mi0.5-eps-converted-to.pdf, i
+d=261, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tconst_sin_mi0.5-eps-converted-to.p
+df Graphic file (type pdf)
+<use ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tconst_sin_mi0.5-eps-converted-to.pd
+f>
+Package pdftex.def Info: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tconst_sin_mi0.5
+-eps-converted-to.pdf  used on input line 155.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateV
+ar_tconst_sin_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:48:20
+(epstopdf)                    size: 229482 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateV
+ar_tconst_sin_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:40
+(epstopdf)                    size: 88489 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c1_tconst_s
+in_mi0.5/StateVar_tconst_sin_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c1_tcon
+st_sin_mi0.5/StateVar_tconst_sin_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 156.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateV
+ar_tconst_sin_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateVar_tconst_sin_mi0.5-eps-converted-to
+.pdf, id=262, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateVar_tconst_sin_mi0.5-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateVar_tconst_sin_mi0.5-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateVar_tconst_si
+n_mi0.5-eps-converted-to.pdf  used on input line 156.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tcon
+st_sin_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:49:06
+(epstopdf)                    size: 51820 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tcon
+st_sin_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:41
+(epstopdf)                    size: 17689 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c1_tconst_s
+in_mi0.5/U_tconst_sin_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c1_tconst_sin_
+mi0.5/U_tconst_sin_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 157.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tcon
+st_sin_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but
+ at most version <1.5> allowed
+<ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tconst_sin_mi0.5-eps-converted-to.pdf, i
+d=263, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tconst_sin_mi0.5-eps-converted-to.p
+df Graphic file (type pdf)
+<use ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tconst_sin_mi0.5-eps-converted-to.pd
+f>
+Package pdftex.def Info: ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tconst_sin_mi0.5
+-eps-converted-to.pdf  used on input line 157.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_
+betar_rect_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:49:49
+(epstopdf)                    size: 88508 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_
+betar_rect_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:43
+(epstopdf)                    size: 33349 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c2_tconst_r
+ect_mi0.5/beta_betar_rect_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c2_tconst_
+rect_mi0.5/beta_betar_rect_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 158.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_
+betar_rect_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>,
+ but at most version <1.5> allowed
+<ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_betar_rect_mi0.5-eps-converted-to.pd
+f, id=264, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_betar_rect_mi0.5-eps-converted-
+to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_betar_rect_mi0.5-eps-converted-t
+o.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_betar_rect_m
+i0.5-eps-converted-to.pdf  used on input line 158.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tco
+nst_rect_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 20:37:43
+(epstopdf)                    size: 53187 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tco
+nst_rect_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:44
+(epstopdf)                    size: 18901 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c2_tconst_r
+ect_mi0.5/e_tconst_rect_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c2_tconst_re
+ct_mi0.5/e_tconst_rect_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tco
+nst_rect_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, b
+ut at most version <1.5> allowed
+<ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0.5-eps-converted-to.pdf,
+ id=265, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0.5-eps-converted-to
+.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0.5-eps-converted-to.
+pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0
+.5-eps-converted-to.pdf  used on input line 159.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/State
+Var_rect_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:50:56
+(epstopdf)                    size: 229210 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/State
+Var_rect_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:46
+(epstopdf)                    size: 81461 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c2_tconst_r
+ect_mi0.5/StateVar_rect_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c2_tconst_re
+ct_mi0.5/StateVar_rect_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 160.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/State
+Var_rect_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, b
+ut at most version <1.5> allowed
+<ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0.5-eps-converted-to.pdf,
+ id=266, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0.5-eps-converted-to
+.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0.5-eps-converted-to.
+pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0
+.5-eps-converted-to.pdf  used on input line 160.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rec
+t_mi0.5.eps>
+(epstopdf)                    date: 2020-07-08 23:53:45
+(epstopdf)                    size: 51270 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rec
+t_mi0.5-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 01:46:47
+(epstopdf)                    size: 16104 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG1_c2_tconst_r
+ect_mi0.5/U_rect_mi0.5-eps-converted-to.pdf ACex6/figs/FIG1_c2_tconst_rect_mi0.
+5/U_rect_mi0.5.eps>
+(epstopdf)             \includegraphics on input line 161.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rec
+t_mi0.5-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at m
+ost version <1.5> allowed
+<ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5-eps-converted-to.pdf, id=267
+, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5-eps-converted-to.pdf Gr
+aphic file (type pdf)
+<use ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5-eps-
+converted-to.pdf  used on input line 161.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:55:20
+(epstopdf)                    size: 86534 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:19
+(epstopdf)                    size: 34399 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG2_tconst_otwa
+rcie_petli_adaptacji_(kompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_si
+n_mi0.2-eps-converted-to.pdf ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(k
+ompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 165.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/beta_b
+etar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf, id=268, 227.85126pt x
+ 227.85126pt>
+File: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/b
+eta_betar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/be
+ta_betar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompe
+nsacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pd
+f  used on input line 165.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 21:08:23
+(epstopdf)                    size: 50672 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:20
+(epstopdf)                    size: 19473 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG2_tconst_otwa
+rcie_petli_adaptacji_(kompensacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2-e
+ps-converted-to.pdf ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacj
+i)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/e_otwa
+rciepetli_tconst_sin_mi0.2-eps-converted-to.pdf, id=269, 227.85126pt x 227.8512
+6pt>
+File: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/e
+_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/e_
+otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompe
+nsacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf  used o
+n input line 166.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:04:04
+(epstopdf)                    size: 229508 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:22
+(epstopdf)                    size: 82849 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG2_tconst_otwa
+rcie_petli_adaptacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_
+mi0.2-eps-converted-to.pdf ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kom
+pensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/StateV
+ar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf, id=270, 227.85126pt x 2
+27.85126pt>
+File: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/S
+tateVar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/St
+ateVar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompe
+nsacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf 
+ used on input line 167.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 23:58:35
+(epstopdf)                    size: 52570 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:23
+(epstopdf)                    size: 17251 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG2_tconst_otwa
+rcie_petli_adaptacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2-e
+ps-converted-to.pdf ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacj
+i)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 168.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG2_tconst_otwarcie_petli_adap
+tacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/U_otwa
+rciepetli_tconst_sin_mi0.2-eps-converted-to.pdf, id=271, 227.85126pt x 227.8512
+6pt>
+File: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/U
+_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/U_
+otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompe
+nsacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf  used o
+n input line 168.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/bet
+a_betar_dON_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:00:05
+(epstopdf)                    size: 86639 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/bet
+a_betar_dON_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:24
+(epstopdf)                    size: 34358 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/beta_betar_dON_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG3_a_
+tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 172.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/bet
+a_betar_dON_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF versio
+n <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2-eps-convert
+ed-to.pdf, id=272, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2-eps-co
+nverted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2-eps-con
+verted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_
+tconst_mi0.2-eps-converted-to.pdf  used on input line 172.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_d
+ON_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 21:16:16
+(epstopdf)                    size: 53566 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_d
+ON_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:25
+(epstopdf)                    size: 19252 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/e_dON_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/e_dON_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 173.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_d
+ON_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, 
+but at most version <1.5> allowed
+<ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_dON_tconst_mi0.2-eps-converted-to.pdf
+, id=273, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_dON_tconst_mi0.2-eps-converted-t
+o.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_dON_tconst_mi0.2-eps-converted-to
+.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_dON_tconst_mi
+0.2-eps-converted-to.pdf  used on input line 173.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/Sta
+teVar_dON_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:01:01
+(epstopdf)                    size: 231740 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/Sta
+teVar_dON_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:27
+(epstopdf)                    size: 79610 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/StateVar_dON_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG3_a_tc
+onst_dON_sin_mi0.2/StateVar_dON_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 174.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/Sta
+teVar_dON_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF version 
+<1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/StateVar_dON_tconst_mi0.2-eps-converted
+-to.pdf, id=274, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/StateVar_dON_tconst_mi0.2-eps-conv
+erted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/StateVar_dON_tconst_mi0.2-eps-conve
+rted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/StateVar_dON_tc
+onst_mi0.2-eps-converted-to.pdf  used on input line 174.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_d
+ON_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:01:21
+(epstopdf)                    size: 53052 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_d
+ON_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:28
+(epstopdf)                    size: 18420 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/U_dON_tconst_mi0.2-eps-converted-to.pdf ACex6/figs/FIG3_a_tconst_dO
+N_sin_mi0.2/U_dON_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 175.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_d
+ON_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, 
+but at most version <1.5> allowed
+<ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_dON_tconst_mi0.2-eps-converted-to.pdf
+, id=275, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_dON_tconst_mi0.2-eps-converted-t
+o.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_dON_tconst_mi0.2-eps-converted-to
+.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U_dON_tconst_mi
+0.2-eps-converted-to.pdf  used on input line 175.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/beta_betar_dON_otwartapetla_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:03:04
+(epstopdf)                    size: 86169 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/beta_betar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:29
+(epstopdf)                    size: 34201 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_b_tconst_dO
+N_otwartapetla_sin_mi0.2/beta_betar_dON_otwartapetla_tconst_mi0.2-eps-converted
+-to.pdf ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/beta_betar_dON_otwa
+rtapetla_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 176.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/beta_betar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf): PDF i
+nclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/beta_betar_dON_otwartapetl
+a_tconst_mi0.2-eps-converted-to.pdf, id=276, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/beta_betar_dON_otwart
+apetla_tconst_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/beta_betar_dON_otwarta
+petla_tconst_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/be
+ta_betar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf  used on input line
+ 176.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/e_dON_otwartapetla_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 21:19:24
+(epstopdf)                    size: 51811 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/e_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:30
+(epstopdf)                    size: 19318 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_b_tconst_dO
+N_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf A
+Cex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tconst_mi
+0.2.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/e_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tconst_
+mi0.2-eps-converted-to.pdf, id=277, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tc
+onst_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tco
+nst_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_
+dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf  used on input line 177.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-08 21:20:12
+(epstopdf)                    size: 229445 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:31
+(epstopdf)                    size: 82830 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_b_tconst_dO
+N_otwartapetla_sin_mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2-eps-converted-t
+o.pdf ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/StateVar_dON_otwartap
+etla_tconst_mi0.2.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf): PDF inc
+lusion: found PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/StateVar_dON_otwartapetla_
+tconst_mi0.2-eps-converted-to.pdf, id=278, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/StateVar_dON_otwartap
+etla_tconst_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/StateVar_dON_otwartape
+tla_tconst_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/St
+ateVar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf  used on input line 1
+78.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2.eps>
+(epstopdf)                    date: 2020-07-09 00:04:32
+(epstopdf)                    size: 52267 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:33
+(epstopdf)                    size: 17310 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG3_b_tconst_dO
+N_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf A
+Cex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tconst_mi
+0.2.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_
+sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tconst_
+mi0.2-eps-converted-to.pdf, id=279, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tc
+onst_mi0.2-eps-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tco
+nst_mi0.2-eps-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_
+dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf  used on input line 179.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/bet
+a_betar_tdescrete_sin_Ta0.01.eps>
+(epstopdf)                    date: 2020-07-09 00:10:22
+(epstopdf)                    size: 85605 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/bet
+a_betar_tdescrete_sin_Ta0.01-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:08:34
+(epstopdf)                    size: 34017 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_a_tdescrete
+_sin_Ta0.01/beta_betar_tdescrete_sin_Ta0.01-eps-converted-to.pdf ACex6/figs/FIG
+4_a_tdescrete_sin_Ta0.01/beta_betar_tdescrete_sin_Ta0.01.eps>
+(epstopdf)             \includegraphics on input line 184.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/bet
+a_betar_tdescrete_sin_Ta0.01-eps-converted-to.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/beta_betar_tdescrete_sin_Ta0.01-eps-con
+verted-to.pdf, id=280, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/beta_betar_tdescrete_sin_Ta0.01-ep
+s-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/beta_betar_tdescrete_sin_Ta0.01-eps
+-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/beta_betar_tdes
+crete_sin_Ta0.01-eps-converted-to.pdf  used on input line 184.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_t
+descrete_sin_Ta0.01.eps>
+(epstopdf)                    date: 2020-07-08 22:05:55
+(epstopdf)                    size: 53115 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_t
+descrete_sin_Ta0.01-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:08:35
+(epstopdf)                    size: 18685 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_a_tdescrete
+_sin_Ta0.01/e_tdescrete_sin_Ta0.01-eps-converted-to.pdf ACex6/figs/FIG4_a_tdesc
+rete_sin_Ta0.01/e_tdescrete_sin_Ta0.01.eps>
+(epstopdf)             \includegraphics on input line 185.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_t
+descrete_sin_Ta0.01-eps-converted-to.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_tdescrete_sin_Ta0.01-eps-converted-to
+.pdf, id=281, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_tdescrete_sin_Ta0.01-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_tdescrete_sin_Ta0.01-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_tdescrete_sin
+_Ta0.01-eps-converted-to.pdf  used on input line 185.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/Sta
+teVar_tdescrete_sin_Ta0.01.eps>
+(epstopdf)                    date: 2020-07-09 00:11:12
+(epstopdf)                    size: 227811 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/Sta
+teVar_tdescrete_sin_Ta0.01-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:35
+(epstopdf)                    size: 74223 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_a_tdescrete
+_sin_Ta0.01/StateVar_tdescrete_sin_Ta0.01-eps-converted-to.pdf ACex6/figs/FIG4_
+a_tdescrete_sin_Ta0.01/StateVar_tdescrete_sin_Ta0.01.eps>
+(epstopdf)             \includegraphics on input line 186.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/Sta
+teVar_tdescrete_sin_Ta0.01-eps-converted-to.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/StateVar_tdescrete_sin_Ta0.01-eps-conve
+rted-to.pdf, id=282, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/StateVar_tdescrete_sin_Ta0.01-eps-
+converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/StateVar_tdescrete_sin_Ta0.01-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/StateVar_tdescr
+ete_sin_Ta0.01-eps-converted-to.pdf  used on input line 186.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_t
+descrete_sin_Ta0.01.eps>
+(epstopdf)                    date: 2020-07-09 00:11:44
+(epstopdf)                    size: 51625 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_t
+descrete_sin_Ta0.01-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:36
+(epstopdf)                    size: 17204 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_a_tdescrete
+_sin_Ta0.01/U_tdescrete_sin_Ta0.01-eps-converted-to.pdf ACex6/figs/FIG4_a_tdesc
+rete_sin_Ta0.01/U_tdescrete_sin_Ta0.01.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_t
+descrete_sin_Ta0.01-eps-converted-to.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_tdescrete_sin_Ta0.01-eps-converted-to
+.pdf, id=283, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_tdescrete_sin_Ta0.01-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_tdescrete_sin_Ta0.01-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/U_tdescrete_sin
+_Ta0.01-eps-converted-to.pdf  used on input line 187.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/bet
+a_betar_tdescrete_sin_Ta0.04.eps>
+(epstopdf)                    date: 2020-07-09 00:13:24
+(epstopdf)                    size: 91285 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/bet
+a_betar_tdescrete_sin_Ta0.04-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:37
+(epstopdf)                    size: 35304 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_b_tdescrete
+_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04-eps-converted-to.pdf ACex6/figs/FIG
+4_b_tdescrete_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/bet
+a_betar_tdescrete_sin_Ta0.04-eps-converted-to.pdf): PDF inclusion: found PDF ve
+rsion <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04-eps-con
+verted-to.pdf, id=284, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04-ep
+s-converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04-eps
+-converted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/beta_betar_tdes
+crete_sin_Ta0.04-eps-converted-to.pdf  used on input line 188.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_t
+descrete_sin_Ta0.04.eps>
+(epstopdf)                    date: 2020-07-08 22:00:38
+(epstopdf)                    size: 57315 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_t
+descrete_sin_Ta0.04-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:38
+(epstopdf)                    size: 20772 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_b_tdescrete
+_sin_Ta0.04/e_tdescrete_sin_Ta0.04-eps-converted-to.pdf ACex6/figs/FIG4_b_tdesc
+rete_sin_Ta0.04/e_tdescrete_sin_Ta0.04.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_t
+descrete_sin_Ta0.04-eps-converted-to.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin_Ta0.04-eps-converted-to
+.pdf, id=285, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin_Ta0.04-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin_Ta0.04-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin
+_Ta0.04-eps-converted-to.pdf  used on input line 189.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/Sta
+teVar_tdescrete_sin_Ta0.04.eps>
+(epstopdf)                    date: 2020-07-09 00:15:04
+(epstopdf)                    size: 243540 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/Sta
+teVar_tdescrete_sin_Ta0.04-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:40
+(epstopdf)                    size: 74803 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_b_tdescrete
+_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04-eps-converted-to.pdf ACex6/figs/FIG4_
+b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/Sta
+teVar_tdescrete_sin_Ta0.04-eps-converted-to.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04-eps-conve
+rted-to.pdf, id=286, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04-eps-
+converted-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescr
+ete_sin_Ta0.04-eps-converted-to.pdf  used on input line 190.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+Package epstopdf Info: Source file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_t
+descrete_sin_Ta0.04.eps>
+(epstopdf)                    date: 2020-07-09 00:15:38
+(epstopdf)                    size: 55233 bytes
+(epstopdf)             Output file: <ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_t
+descrete_sin_Ta0.04-eps-converted-to.pdf>
+(epstopdf)                    date: 2020-07-09 02:05:41
+(epstopdf)                    size: 17798 bytes
+(epstopdf)             Command: <epstopdf --outfile=ACex6/figs/FIG4_b_tdescrete
+_sin_Ta0.04/U_tdescrete_sin_Ta0.04-eps-converted-to.pdf ACex6/figs/FIG4_b_tdesc
+rete_sin_Ta0.04/U_tdescrete_sin_Ta0.04.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_t
+descrete_sin_Ta0.04-eps-converted-to.pdf): PDF inclusion: found PDF version <1.
+7>, but at most version <1.5> allowed
+<ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescrete_sin_Ta0.04-eps-converted-to
+.pdf, id=287, 227.85126pt x 227.85126pt>
+File: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescrete_sin_Ta0.04-eps-convert
+ed-to.pdf Graphic file (type pdf)
+<use ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescrete_sin_Ta0.04-eps-converte
+d-to.pdf>
+Package pdftex.def Info: ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescrete_sin
+_Ta0.04-eps-converted-to.pdf  used on input line 191.
+(pdftex.def)             Requested size: 125.19283pt x 125.1934pt.
+
+AED: lastpage setting LastPage
+[3
+
+] [4 <./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst
+_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/e_i
+nitial_tconst_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG1_a1_initial_tconst_
+sin_mi0.2/StateVar_initial_tconst_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG
+1_a1_initial_tconst_sin_mi0.2/U_initial_tconst_mi0.2-eps-converted-to.pdf> <./A
+Cex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/beta_betar_initial_tconst_rect_mi0.
+2-eps-converted-to.pdf> <./ACex6/figs/FIG1_a2_initial_tconst_rect_mi0.2/e_initi
+al_tconst_rect_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG1_a2_initial_tconst
+_rect_mi0.2/StateVar_initial_tconst_rect_mi0.2-eps-converted-to.pdf> <./ACex6/f
+igs/FIG1_a2_initial_tconst_rect_mi0.2/U_initial_tconst_rect_mi0.2-eps-converted
+-to.pdf> <./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/beta_betar_tconst_sin_mi0.03-e
+ps-converted-to.pdf> <./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/e_tconst_sin_mi0.0
+3-eps-converted-to.pdf> <./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/StateVar_tconst
+_sin_mi0.03-eps-converted-to.pdf> <./ACex6/figs/FIG1_b1_tconst_sin_mi0.03/U_tco
+nst_sin_mi0.03-eps-converted-to.pdf> <./ACex6/figs/FIG1_b2_tconst_rect_mi0.03/b
+eta_betar_tconst_rect_mi0.03-eps-converted-to.pdf> <./ACex6/figs/FIG1_b2_tconst
+_rect_mi0.03/e_tconst_rect_mi0.03-eps-converted-to.pdf> <./ACex6/figs/FIG1_b2_t
+const_rect_mi0.03/StateVar_tconst_rect_mi0.03-eps-converted-to.pdf> <./ACex6/fi
+gs/FIG1_b2_tconst_rect_mi0.03/U_tconst_rect_mi0.03-eps-converted-to.pdf> <./ACe
+x6/figs/FIG1_c1_tconst_sin_mi0.5/beta_betar_tconst_sin_mi0.5-eps-converted-to.p
+df> <./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/e_tconst_sin_mi0.5-eps-converted-to.
+pdf> <./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/StateVar_tconst_sin_mi0.5-eps-conve
+rted-to.pdf> <./ACex6/figs/FIG1_c1_tconst_sin_mi0.5/U_tconst_sin_mi0.5-eps-conv
+erted-to.pdf> <./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/beta_betar_rect_mi0.5-eps
+-converted-to.pdf> <./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0.5-
+eps-converted-to.pdf> <./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0
+.5-eps-converted-to.pdf> <./ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5-e
+ps-converted-to.pdf>] [5 <./ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(ko
+mpensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2-eps-converted-to
+.pdf> <./ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.
+2/e_otwarciepetli_tconst_sin_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG2_tco
+nst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tco
+nst_sin_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG2_tconst_otwarcie_petli_ad
+aptacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2-eps-converted-
+to.pdf> <./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2-e
+ps-converted-to.pdf> <./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/e_dON_tconst_mi0
+.2-eps-converted-to.pdf> <./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/StateVar_dON
+_tconst_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/U
+_dON_tconst_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG3_b_tconst_dON_otwarta
+petla_sin_mi0.2/beta_betar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf> 
+<./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tcons
+t_mi0.2-eps-converted-to.pdf> <./ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_
+mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2-eps-converted-to.pdf> <./ACex6/fig
+s/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2-eps-
+converted-to.pdf> <./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/beta_betar_tdescret
+e_sin_Ta0.01-eps-converted-to.pdf> <./ACex6/figs/FIG4_a_tdescrete_sin_Ta0.01/e_
+tdescrete_sin_Ta0.01-eps-converted-to.pdf> <./ACex6/figs/FIG4_a_tdescrete_sin_T
+a0.01/StateVar_tdescrete_sin_Ta0.01-eps-converted-to.pdf> <./ACex6/figs/FIG4_a_
+tdescrete_sin_Ta0.01/U_tdescrete_sin_Ta0.01-eps-converted-to.pdf> <./ACex6/figs
+/FIG4_b_tdescrete_sin_Ta0.04/beta_betar_tdescrete_sin_Ta0.04-eps-converted-to.p
+df> <./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin_Ta0.04-eps-conver
+ted-to.pdf> <./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta
+0.04-eps-converted-to.pdf> <./ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescret
+e_sin_Ta0.04-eps-converted-to.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
  (SA_RAPORT_Ex4Ex6.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 194.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
 Package rerunfilecheck Info: File `SA_RAPORT_Ex4Ex6.out' has not changed.
-(rerunfilecheck)             Checksum: 7A2C67A5E180C1035D1E5DDC402A3E35;148.
+(rerunfilecheck)             Checksum: 20978EC43276159F32EDEE3A13B8672D;368.
  ) 
 Here is how much of TeX's memory you used:
- 26115 strings out of 480799
- 518216 string characters out of 2912021
- 809824 words of memory out of 3000000
- 41617 multiletter control sequences out of 15000+200000
- 560678 words of font info for 34 fonts, out of 3000000 for 9000
+ 27616 strings out of 480799
+ 613241 string characters out of 2912021
+ 817708 words of memory out of 3000000
+ 42945 multiletter control sequences out of 15000+200000
+ 576238 words of font info for 54 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,6n,103p,829b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX 2.9/fonts/type1/public
-/lm/lmbx12.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:/MiKTeX 2.9/
-fonts/type1/public/lm/lmr10.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb
-><C:/MiKTeX 2.9/fonts/type1/public/lm/lmss12.pfb><C:/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmssbx10.pfb>
-Output written on SA_RAPORT_Ex4Ex6.pdf (1 page, 953125 bytes).
+ 66i,11n,103p,829b,349s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX 2.9/fonts/enc/dvips/lm
+/lm-rm.enc}{C:/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}<C:/MiKTeX 2.9/fonts
+/type1/public/lm/lmbx10.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:
+/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/MiKTeX 2.9/fonts/type1/public/
+lm/lmmi7.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/MiKTeX 2.9/font
+s/type1/public/lm/lmr7.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/
+MiKTeX 2.9/fonts/type1/public/lm/lmss10.pfb><C:/MiKTeX 2.9/fonts/type1/public/l
+m/lmss12.pfb><C:/MiKTeX 2.9/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on SA_RAPORT_Ex4Ex6.pdf (5 pages, 15897501 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
- 193 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 570 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 547 words of extra memory for PDF output out of 10000 (max. 10000000)
 

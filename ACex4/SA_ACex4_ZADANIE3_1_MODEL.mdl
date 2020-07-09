@@ -6,7 +6,7 @@ Model {
     NumRootInports	    0
     NumRootOutports	    0
     ParameterArgumentNames  ""
-    ComputedModelVersion    "1.30"
+    ComputedModelVersion    "1.31"
     NumModelReferences	    0
     NumTestPointedSignals   0
     NumProvidedFunctions    0
@@ -79,8 +79,8 @@ Model {
 	  ViewObjType		  "SimulinkTopLevel"
 	  LoadSaveID		  "0"
 	  Extents		  [1875.0, 879.0]
-	  ZoomFactor		  [0.8]
-	  Offset		  [-351.706301344866, -118.74086050733752]
+	  ZoomFactor		  [1.6388349514563108]
+	  Offset		  [184.60781990521326, 16.457345971563967]
 	}
 	Object {
 	  $ObjectID		  6
@@ -89,14 +89,14 @@ Model {
 	  LoadSaveID		  "17"
 	  Extents		  [1920.0, 1080.0]
 	  ZoomFactor		  [2.6999999999999997]
-	  Offset		  [-3.1649305555554292, 20.7222222222222]
+	  Offset		  [-3.1649305555553724, 20.7222222222222]
 	}
 	Object {
 	  $ObjectID		  7
 	  IsActive		  [0]
 	  ViewObjType		  "SimulinkSubsys"
 	  LoadSaveID		  "53"
-	  Extents		  [1875.0, 879.0]
+	  Extents		  [1920.0, 1080.0]
 	  ZoomFactor		  [4.0]
 	  Offset		  [259.55714285714288, 59.114285714285614]
 	}
@@ -134,9 +134,9 @@ Model {
   ModifiedByFormat	  "%<Auto>"
   LastModifiedBy	  "szymon"
   ModifiedDateFormat	  "%<Auto>"
-  LastModifiedDate	  "Wed Jul 08 22:22:34 2020"
-  RTWModifiedTimeStamp	  516147690
-  ModelVersionFormat	  "1.%<AutoIncrement:30>"
+  LastModifiedDate	  "Wed Jul 08 23:31:15 2020"
+  RTWModifiedTimeStamp	  516151859
+  ModelVersionFormat	  "1.%<AutoIncrement:31>"
   SampleTimeColors	  off
   SampleTimeAnnotations	  off
   LibraryLinkDisplay	  "none"
@@ -1215,7 +1215,7 @@ Model {
     TiledPaperMargins	    [1.270000, 1.270000, 1.270000, 1.270000]
     TiledPageScale	    1
     ShowPageBoundaries	    off
-    ZoomFactor		    "80"
+    ZoomFactor		    "164"
     ReportName		    "simulink-default.rpt"
     SIDHighWatermark	    "84"
     Block {
@@ -1223,13 +1223,13 @@ Model {
       Name		      "Aero-plant"
       SID		      "2"
       Ports		      [1, 1]
-      Position		      [945, 439, 1005, 481]
+      Position		      [950, 379, 1010, 421]
       ZOrder		      -2
       BackgroundColor	      "lightBlue"
       RequestExecContextInheritance off
       Port {
 	PortNumber		1
-	Name			"yTc"
+	Name			"y(t)"
       }
       System {
 	Name			"Aero-plant"
@@ -1251,7 +1251,7 @@ Model {
 	ZoomFactor		"250"
 	Block {
 	  BlockType		  Inport
-	  Name			  "uTc"
+	  Name			  "u(t)"
 	  SID			  "3"
 	  Position		  [145, 233, 175, 247]
 	  ZOrder		  -1
@@ -1325,7 +1325,7 @@ Model {
 	}
 	Block {
 	  BlockType		  Outport
-	  Name			  "yTc"
+	  Name			  "y(t)"
 	  SID			  "10"
 	  Position		  [485, 203, 515, 217]
 	  ZOrder		  -8
@@ -1367,12 +1367,12 @@ Model {
 	  ZOrder		  6
 	  SrcBlock		  "Add"
 	  SrcPort		  1
-	  DstBlock		  "yTc"
+	  DstBlock		  "y(t)"
 	  DstPort		  1
 	}
 	Line {
 	  ZOrder		  7
-	  SrcBlock		  "uTc"
+	  SrcBlock		  "u(t)"
 	  SrcPort		  1
 	  DstBlock		  "control path"
 	  DstPort		  1
@@ -1498,7 +1498,7 @@ Model {
       Name		      "RSG"
       SID		      "17"
       Ports		      [0, 2]
-      Position		      [240, 406, 290, 479]
+      Position		      [245, 346, 295, 419]
       ZOrder		      -9
       BackgroundColor	      "green"
       RequestExecContextInheritance off
@@ -1744,7 +1744,7 @@ Model {
       BlockType		      ZeroOrderHold
       Name		      "Tc"
       SID		      "40"
-      Position		      [340, 445, 375, 475]
+      Position		      [345, 385, 380, 415]
       ZOrder		      -22
       BackgroundColor	      "green"
       SampleTime	      "Tc"
@@ -1757,7 +1757,7 @@ Model {
       BlockType		      ZeroOrderHold
       Name		      "Tc1"
       SID		      "41"
-      Position		      [340, 410, 375, 440]
+      Position		      [345, 350, 380, 380]
       ZOrder		      -23
       BackgroundColor	      "green"
       NamePlacement	      "alternate"
@@ -1978,35 +1978,35 @@ Model {
       "Cache',{{struct('Color',[0 0 0],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible','on'),struct('Color',"
       "[0 0.447058823529412 0.741176470588235],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible','on'),struct("
       "'Color',[1 0 0],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible','on')}},'UserDefinedChannelNames',{{'"
-      "w(1)','w(2)','w(3)'}},'NumLines',3,'LineNames',{{'w(1)','w(2)','w(3)'}},'ShowContent',true,'Placement',1),struct"
-      "('MinYLimReal','0.18636','MaxYLimReal','1.09268','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','5.12399','"
-      "LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[1 1 1],'AxesTickColor',[0.313"
-      "725490196078 0.313725490196078 0.313725490196078],'ColorOrder',[0 0.447058823529412 0.741176470588235;0.85098039"
-      "2156863 0.325490196078431 0.0980392156862745;0.929411764705882 0.694117647058824 0.125490196078431;0.49411764705"
-      "8824 0.184313725490196 0.556862745098039;0.466666666666667 0.674509803921569 0.188235294117647;0.301960784313725"
-      " 0.745098039215686 0.933333333333333;0.635294117647059 0.0784313725490196 0.184313725490196],'Title','%<SignalLa"
-      "bel>','LinePropertiesCache',{{struct('Color',[0 0 0],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible',"
-      "'on'),struct('Color',[0 0.447058823529412 0.741176470588235],'LineStyle','-','LineWidth',0.25,'Marker','none','V"
-      "isible','on')}},'UserDefinedChannelNames',{{'p(1)','p(2)'}},'NumLines',2,'LineNames',{{'p(1)','p(2)'}},'ShowCont"
-      "ent',true,'Placement',2)},'DisplayPropertyDefaults',struct('YLabelReal','','LegendVisibility','On','XGrid',true,"
-      "'YGrid',true,'PlotMagPhase',false,'AxesColor',[1 1 1],'AxesTickColor',[0.313725490196078 0.313725490196078 0.313"
-      "725490196078],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0."
-      "16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.05"
-      "88235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'"
-      "UserDefinedChannelNames',{{}},'NumLines',0,'LineNames',{{[]}},'ShowContent',true,'Placement',1),'DisplayLayoutDi"
-      "mensions',[2 1]),extmgr.Configuration('Tools','Plot Navigation',true,'OnceAtStop',false,'PreviousAutoscale','X',"
-      "'PreviousZoomMode','Pan'),extmgr.Configuration('Tools','Measurements',true,'Version','2018a')),'Version','2018a'"
-      ",'Location',[1 74.1999999999999 1537 863],'VisibleAtModelOpen','on')"
+      "w(1)','w(2)','w(3)'}},'NumLines',0,'LineNames',{{[]}},'ShowContent',true,'Placement',1),struct('MinYLimReal','0."
+      "18636','MaxYLimReal','1.09268','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','5.12399','LegendVisibility',"
+      "'On','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[1 1 1],'AxesTickColor',[0.313725490196078 0.313"
+      "725490196078 0.313725490196078],'ColorOrder',[0 0.447058823529412 0.741176470588235;0.850980392156863 0.32549019"
+      "6078431 0.0980392156862745;0.929411764705882 0.694117647058824 0.125490196078431;0.494117647058824 0.18431372549"
+      "0196 0.556862745098039;0.466666666666667 0.674509803921569 0.188235294117647;0.301960784313725 0.745098039215686"
+      " 0.933333333333333;0.635294117647059 0.0784313725490196 0.184313725490196],'Title','%<SignalLabel>','LinePropert"
+      "iesCache',{{struct('Color',[0 0 0],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible','on'),struct('Colo"
+      "r',[0 0.447058823529412 0.741176470588235],'LineStyle','-','LineWidth',0.25,'Marker','none','Visible','on')}},'U"
+      "serDefinedChannelNames',{{'p(1)','p(2)'}},'NumLines',0,'LineNames',{{[]}},'ShowContent',true,'Placement',2)},'Di"
+      "splayPropertyDefaults',struct('YLabelReal','','LegendVisibility','On','XGrid',true,'YGrid',true,'PlotMagPhase',f"
+      "alse,'AxesColor',[1 1 1],'AxesTickColor',[0.313725490196078 0.313725490196078 0.313725490196078],'ColorOrder',[1"
+      " 1 0.0666666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745"
+      "098 0.831372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.074509"
+      "8039215686 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}}"
+      ",'NumLines',0,'LineNames',{{[]}},'ShowContent',true,'Placement',1),'DisplayLayoutDimensions',[2 1]),extmgr.Confi"
+      "guration('Tools','Plot Navigation',true,'OnceAtStop',false,'PreviousAutoscale','X','PreviousZoomMode','Pan'),ext"
+      "mgr.Configuration('Tools','Measurements',true,'Version','2018a')),'Version','2018a','Location',[1 74.19999999999"
+      "99 1537 863],'VisibleAtModelOpen','on')"
       NumInputPorts	      "2"
       Floating		      off
     }
     Line {
-      Name		      "yTc"
+      Name		      "y(t)"
       ZOrder		      1
       Labels		      [1, 1]
       SrcBlock		      "Aero-plant"
       SrcPort		      1
-      Points		      [27, 0; 0, -220]
+      Points		      [22, 0; 0, -160]
       Branch {
 	ZOrder			189
 	Labels			[2, 1]
@@ -2050,7 +2050,7 @@ Model {
       Branch {
 	ZOrder			41
 	Labels			[2, 1]
-	Points			[0, -170]
+	Points			[0, -110]
 	DstBlock		"Transfer Fcn2"
 	DstPort			1
       }
@@ -2158,7 +2158,7 @@ Model {
       ForegroundColor	      "[0.901961, 0.960784, 1.000000]"
       BackgroundColor	      "[0.901961, 0.960784, 1.000000]"
       AnnotationType	      "area_annotation"
-      ZOrder		      346
+      ZOrder		      348
       FontSize		      12
     }
     Annotation {
@@ -2173,7 +2173,7 @@ Model {
       ForegroundColor	      "[0.901961, 0.901961, 1.000000]"
       BackgroundColor	      "[0.901961, 0.901961, 1.000000]"
       AnnotationType	      "area_annotation"
-      ZOrder		      345
+      ZOrder		      347
       FontSize		      12
     }
   }

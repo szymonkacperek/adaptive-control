@@ -11,6 +11,7 @@ br_d = f(5);
 br_dd = f(6);
 
 
+% Wzór (32)
 
 u = (br_dd - theta20*br_d - theta10*br + kd*(br_d-x2_daszek) + kp*(br-beta) - x3_daszek)/theta6_daszek; %wzór (24) i (32)
 y = u;

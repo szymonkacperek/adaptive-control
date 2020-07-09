@@ -10,7 +10,7 @@ x3_daszek = f(5);
 
 x_daszek_prev = [x1_daszek; x2_daszek; x3_daszek];
 
-
+% Wzór (16)
 x_daszek = (eye(3) + Ta*(A-L*C))*x_daszek_prev + Ta*B*u_prev + Ta*L*y_prev;
 
 z = x_daszek';

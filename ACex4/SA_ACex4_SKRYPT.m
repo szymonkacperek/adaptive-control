@@ -20,16 +20,17 @@ Ta = 0.005;
 Tc = 0.001;
 
 % Variance of stochastic noise sigma2e
-sigma2e = 0.01;
+sigma2e = 0.00;
 
 % Sta³a czasowa u¿yta dla filtrów SVF (bloki Transfer Fcn)
 TF = 1.5*Ta;
 
 %  1.3   BLOK RLS
 p_hat = [1; 1];
-alfa = 3;
+alfa = 3.0;         % czas ustalania (?) [s]
 lambda = 0.999;     % Wspó³czynnik zapominania
-P = 0.1*eye(2);
+ro = 20.0;
+P = ro*eye(2);
 
 %% 2    ZADANIA
 %% (a)  ZADANIE 3.1c
