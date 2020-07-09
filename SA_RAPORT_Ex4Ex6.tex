@@ -90,7 +90,7 @@
 	
 	Dla celów symulacji przyjęto następujące wartości parametrów:
 	\begin{equation}
-	T_a=0.005, \quad T_c=0.001, \quad  T_F=1.5T_a, \quad \hat{p}_0=[1 \quad 1], \quad \alpha=3.0,\quad lambda=0.999,\quad \rho = 0.1
+	T_a=0.005[s], \quad T_c=0.001[s], \quad  T_F=1.5T_a, \quad \hat{p}_0=[1 \quad 1], \quad \alpha=3.0,\quad lambda=0.999,\quad \rho = 0.1
 	\end{equation}
 	oraz postaci wymuszeń: \textbf{typu 1}: $y_r(t)=Y_r\sin(\omega_rt),\quad\dot{y}_r=Y_r\omega_r\cos(\omega_rt)$ oraz \textbf{typu 2}: $y_r(t)=Y_rrect(\omega_rt), \quad \dot{y}_r=0$.
 
@@ -99,12 +99,16 @@ Asymptotyczna zbieżność błędów śledzenia $e$ widoczna jest na rys. 3b, 3h
 
 Wykorzystanie sterownika ze stałym współczynnikiem $p$ nie spełniło założeń projektowych - uchyb nie zbiegał asymptotycznie do zera (rys. 2b, 2d). Wprowadzenie zmian (\textit{on-line}) parametru $w$ pozwoliło spełnić założenia projektowe. 
 
-Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b. Zwiększenie współczynnika $\rho$ oraz wpływ widoczny jest na rys 4c, 4d. 
-	\subsection{Prezentacja wyników}	
-	\begin{figure}[ht]\centering	
+Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b - wyraźnie zwiększa oscylacje parametrów $w$ oraz $\hat{p}$. Zwiększenie współczynnika $\rho$ oraz wpływ na amplitudę parametrów sterownika $w$ widoczny jest na rys 4c, 4d.
+
+Podsumowując, schemat sterowania MIAC spełnił założenia projektowe. Widoczna jest wrażliwość układu na wystąpienie szumu, estymaty parametrów znacznie odbiegają od wartości niezaszumionych. Rozwiązaniem tego problemu może być identyfikacja parametryczna metodą zmiennych instrumentalnych. 
+
+	\begin{figure}[ht]
+			\subsection{Prezentacja wyników}	
+			\centering	
 		a) \includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma001_sin} b)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma01_sin} c)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma10_sin}
-		e) \includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect} f)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect} g)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect}\caption{
-			Wyniki symulacji bez sterownika dla zakłócenia szumem białym o wariancji (a, e) $\sigma^2_e=0.01$, (b, f) $\sigma^2_e=0.1$, (c, g)  $\sigma^2_e=1.0$ dla wymuszenia o wartościach współczynników $Y_r=1[rad/s]$,  $\omega_r=0.5[rad/s]$ typu 1 \textbf{(a-c)} oraz typu 2 \textbf{(d-f)}.}
+		d) \includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma001_rect} e)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma01_rect} f)\includegraphics[width=0.31\columnwidth]{ACex4/ZADANIE3_1/figs/01Parametry_sigma10_rect}\caption{
+			Wyniki symulacji bez sterownika dla zakłócenia szumem białym o wariancji (a, d) $\sigma^2_e=0.01$, (b, e) $\sigma^2_e=0.1$, (c, f)  $\sigma^2_e=1.0$ dla wymuszenia o wartościach współczynników $Y_r=1[rad/s]$,  $\omega_r=0.5[rad/s]$ typu 1 \textbf{(a-c)} oraz typu 2 \textbf{(d-f)}.}
 	\end{figure}
 	\begin{figure}[ht]\centering	
 	a) \includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_2/figs/02Parametry_sigma001_sin} b)\includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_2/figs/02Sygnaly_sigma001_sin} c)\includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_2/figs/02Parametry_sigma001_rect}
@@ -122,7 +126,7 @@ Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b
 	i) \includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_3/figs/07Parametry_sigma001_rect} j)\includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_3/figs/07Pozycje_sigma001_rect} k)\includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_3/figs/08Parametry_sigma01_rect}
 	l) \includegraphics[width=0.22\columnwidth]{ACex4/ZADANIE3_3/figs/08Pozycje_sigma01_rect} \caption{
 		Wymuszenia o wartościach współczynników $Y_r=0.15[rad/s]$,  $\omega_r=0.25[rad/s]$ typu 1 \textbf{(a-f)} oraz typu 2 \textbf{(g-l)}.
-		Symulacja przeprowadzona z blokiem sterownika z adaptacyjną zmianą (\textit{on-line}) parametru $w$, dla zakłócenia szumem białym o wariancji
+		Symulacja przeprowadzona z blokiem sterownika z adaptacyjną zmuaną (\textit{on-line}) parametru $w$, dla zakłócenia szumem białym o wariancji
 		(a, b, g, h) $\sigma^2_e=0.0$, (c, d, i, j) $\sigma^2_e=0.01$, (e, f, k, l)  $\sigma^2_e=0.1$.  Przebiegi współczynnika $w$, estymat parametrów $\hat{p}$ (a, c, e, g, i, k) oraz zadanej trajektorii referencyjnej $y_r$ oraz pozycji obiektu $y$, sygnału sterującego $u$ oraz błędu śledzenia $e$ (b, d, f, h, j, l).}
 \end{figure}
 	\begin{figure}[ht]\centering	
@@ -132,7 +136,24 @@ Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b
 \end{figure}
 
 \section{Active/Adaptive Disturbance Rejection Control (ADRC)}
+Celem tego ćwiczenia jest zaprojektowanie sterowania w systemie ze sterownikiem ADRC oraz jego weryfikacja. W schemacie ADRC proces adaptacji wynika z odpowiedniego aktualizowania ,,on-line'' dodatkowego sygnału sterującego odpowiedzialnego za kompensację tak zwanego całkowitego zakłócenia, w którego skład wchodzą wszelkie niewiadome i niepewności parametryczne badanego obiektu.
+W symulacji przyjęto następujące wartości parametrów:
+$$
+\theta_{10}= -0.018[rad], \quad \theta_{20} = 0.01[rad], \quad \hat{\theta}_{60}= 0.425[rad], \quad \alpha = 2[s]
+$$
+oraz postaci wymuszeń: typu 1: $y_r(t) =  Y_r \sin(\omega_{rt})$, typu 2: $y_r(t) = H(s)[Yr(t)rect(\omega_{rt})]$, gdzie $H$ jest filtrem liniowym trzeciego rzędu.
 
+\subsection{Wnioski}
+Wykresy błędów śledzenia (Rys 5.) zbliżają się w okolice zera, jednak asymptotycznie do niego nie zmierzają. Oscylują one wokół niego w jakimś stałym tunelu wartości przy dużym współczynniku  $\mu$. Z jego obniżeniem, błąd zbliża się ku zeru. Przebiegi estymat zmiennych stanu w dobry sposób odwzorowują ich faktyczne wartości, lecz asymptotycznie do nich nie zmierzają. Najmniej dokładne są estymaty trzeciej zmiennej stanu, o którą system został rozszerzony, czyli całkowitego zakłócenia.
+Na Rys 5. można zaobserwować wpływ współczynnika $\mu$. Wraz z jego wzrostem pogarsza się sterowanie systemu, co szczególnie widoczne jest na wykresach błędu śledzenia oraz błąd estymacji zmiennych stanu. Sygnał sterujący na wyjściu ze sterownika również jest bardziej niespokojny dla większych wartości $\mu$.
+
+Czas ustalania się wartości błędu śledzenia dla systemu z zamkniętą pętlą kompensacji spełnia warunek $T_{s1\%}\approx \alpha$. Otwarcie pętli negatywnie wpływa na odwzorowywanie przez system zadanej trajektorii, co widoczne jest na porównaniu Rys 5 i 6, dla których przyjęto te same wartości parametru $\mu = 0.2$.
+
+Poprzez dodanie dodatkowego zakłócenia system stał się delikatnie bardziej ospały oraz z większym błędem odwzorowuje trajektorię zadaną. Zakłócenie negatywnie wpłynęło również na estymaty zmiennych stanu $\hat{x}_2$ oraz $\hat{x}_3$. W przypadku $\hat{x}_1$ jest to mniej widoczne. W przypadku dodanych zakłóceń otwarcie pętli kompensacji po raz kolejny pogorszyło jakość otrzymywanych wyników (Rys 7.).
+
+Na Rys 8. Można zaobserwować wpływ wartości czasu próbkowania na odpowiedź systemu w metodzie ADRC. Wraz ze zwiększeniem Ta sterowanie systemu pogorszyło się. Oznacza to, że użycie wystarczająco małych wartości czasu próbkowania jest korzystne dla metody ADRC w czasie dyskretnym. W  przypadku zmniejszenia wartości czasu próbkowania Ta zaczyna się również pojawiać zjawisko chatteringu, co jest najbardziej widoczne na sygnałach sterujących, błędu śledzenia oraz estymat zmiennych stanu. 
+
+Podsumowując, model ADRC poprzez odpowiednią kompensację całkowitego zakłócenia oraz aktualizowanie ,,on-line'' sygnału sterującego zapewnia dobre odwzorowanie trajektorii przy odpowiednim dostrojeniu parametrów takich jak $\mu$, $\omega_c$ oraz macierz $L$ w przypadku czasu ciągłego czy czas próbkowania w przypadku czasu dyskretnego.
 \subsection{Prezentacja wyników}
 	\begin{figure}[ht]\centering	
 	a) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG1_a1_initial_tconst_sin_mi0.2/beta_betaref_initial_tconst_mi0.2} 
@@ -159,14 +180,17 @@ Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b
 	w) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG1_c2_tconst_rect_mi0.5/e_tconst_rect_mi0.5}
 	y) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG1_c2_tconst_rect_mi0.5/StateVar_rect_mi0.5}	
 	z) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG1_c2_tconst_rect_mi0.5/U_rect_mi0.5}
-		\caption{Warunki początkowe: mi = 0.2}
+		\caption{Wyniki symilacji sterowania systemi w czasie ciągłym z parametrami początkowymi oraz zmiennym współczynnikiem mi: (a-d) – sygnał typu 1 ze współczynnikiem $\mu= 0.2$  (e-h) -  typ2 ze współczynnikiem $\mu =0.2$ (i-l) – typ1 $\mu = 0.03$ (m-n) – typ2 $\mu = 0.03$ (p-t) – typ1 $\mu = 0.5$(u-z) typ2 $\mu =0.5$}
 \end{figure}
 	\begin{figure}[ht]\centering	
 	a) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/beta_betar_otwarciepetli_tconst_sin_mi0.2} 
 	b) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/e_otwarciepetli_tconst_sin_mi0.2}
 	c) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/StateVar_otwarciepetli_tconst_sin_mi0.2}
 	d) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG2_tconst_otwarcie_petli_adaptacji_(kompensacji)_sin_mi0.2/U_otwarciepetli_tconst_sin_mi0.2}\\
-			\caption{otwarcie petli }
+			\caption{Sygnał typu1 ze współczynnikiem $\mu = 0.2$ oraz otwartą pętlą kompensacji
+				a) $\mu = 0.2$, dodanie zakłócenia zewnętrznego d
+				b) $\mu = 0.2$, dodanie zakłócenia zewnętrznego d oraz otwarcie pętli kompensacji
+			}
 \end{figure}
 	\begin{figure}[ht]\centering	
 	a) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG3_a_tconst_dON_sin_mi0.2/beta_betar_dON_tconst_mi0.2} 
@@ -177,7 +201,7 @@ Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b
 	f) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/e_dON_otwartapetla_tconst_mi0.2}
 	g) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/StateVar_dON_otwartapetla_tconst_mi0.2}
 	h) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG3_b_tconst_dON_otwartapetla_sin_mi0.2/U_dON_otwartapetla_tconst_mi0.2}\\
-	\caption{A) mi = 0.2, dodanie zakłócenia zewnętrznego d; B) mi = 0.2, dodanie zakłócenia zewnętrznego d oraz otwarcie pętli kompensacji
+	\caption{(a-d) – sygnał typu1, $\mu =0.2$, dodane zakłócenie zewnętrzne d, (e-f) – sygnał typu 1, $\mu =0.2$, dodane zakłócenie zewnętrzne z otwartą pętlą kompensacji
 	}
 \end{figure}
 	\begin{figure}[ht]\centering	
@@ -189,6 +213,6 @@ Wpływ czasu $T_a$ na przebiegi estymat parametrów widoczny jest na rys. 4a, 4b
 	f) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/e_tdescrete_sin_Ta0.04}
 	g) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/StateVar_tdescrete_sin_Ta0.04} 
 	h) \includegraphics[width=0.22\columnwidth]{ACex6/figs/FIG4_b_tdescrete_sin_Ta0.04/U_tdescrete_sin_Ta0.04}
-	\caption{Fig4: A) discrete Ta = 0.01 mi = 0.1 B) discrete Ta = 0.04 mi = 0.1}
+	\caption{(a-d) – sygnał typu 1 w czasie dyskretnym o czasie próbkowania $T_a = 0.01[s]$ oraz parametrze $\mu = 0.1$, (e-h) – typ 1 w czasie dyskretnym, $T_a = 0.04$, $\mu = 0.1$}
 \end{figure}
 \end{document}
