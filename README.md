@@ -1,5 +1,5 @@
 # Adaptive Control
-Controllers and reference signal generator for a model of 2DOF robotic manipulator
+System identification and control
 
 # Preview
 ![](adaptive_control_demo.png?style=centerme)
